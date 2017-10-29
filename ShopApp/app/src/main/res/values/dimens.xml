@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_margin">20dp</dimen>
+    <dimen name="tv_margin">25dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="et_length">70dp</dimen>
+    <dimen name="bu_margin">320dp</dimen>
+    <dimen name="bu_can_margin">25dp</dimen>
+</resources>

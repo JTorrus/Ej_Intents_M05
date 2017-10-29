@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="tv_name">Coffee Shop</string>
+    <string name="stock_name">25</string>
+    <string name="action_buy">Purchase</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="activity_user_input">Selected quantity</string>
+    <string name="activity_messageOK">You purchased %1$d items</string>
+    <string name="activity_messageKO">Purchase cancelled</string>
+    <string name="activity_empty_selection">Purchase at least one item</string>
+    <string name="dialog_title_spinner">Select quantity</string>
+</resources>
