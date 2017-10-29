@@ -1,0 +1,5 @@
+----- W.I.P -----
+# Evitar todo el hard coding en las clases
+-> NullPointerException cuando instancio con valores de resource
+
+
